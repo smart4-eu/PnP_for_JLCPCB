@@ -2,6 +2,8 @@
 
 This application convert outputs from the Altium Designer to the JLCPCB format
 
+This is a mirror repo from: https://git.kramara.com/Public/PnP_for_JLCPCB
+
 ## Script parameters
 
 - `-i` or `--input` - input the pick and place file
