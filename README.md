@@ -1,6 +1,6 @@
 # PnP for JLCPCB
 
-This application convert outputs from Altium panelized files to the JLCPCB format
+This application convert outputs from the Altium Designer to the JLCPCB format
 
 ## Script parameters
 
