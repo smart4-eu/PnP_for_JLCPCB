@@ -1,0 +1,21 @@
+Altium Designer Pick and Place Locations
+P:\Seznam\Oprava knihoven\test_skriptu_panel\Project Outputs for Free Documents\Pick Place\Pick Place for test_panel.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       11.03.21
+Time:       07:42
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R1","R0805-10K","TopLayer","2012[0805]","50.9050","63.4600","0","Resistor"
+"C1","CK0805-10n","TopLayer","C0805","55.8580","63.4600","0",""
+"R1","R0805-10K","TopLayer","2012[0805]","50.9050","71.4600","0","Resistor"
+"C1","CK0805-10n","TopLayer","C0805","55.8580","71.4600","0",""
+"R1","R0805-10K","TopLayer","2012[0805]","62.9050","63.4600","0","Resistor"
+"C1","CK0805-10n","TopLayer","C0805","67.8580","63.4600","0",""
+"R1","R0805-10K","TopLayer","2012[0805]","62.9050","71.4600","0","Resistor"
+"C1","CK0805-10n","TopLayer","C0805","67.8580","71.4600","0",""
